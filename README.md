@@ -4,3 +4,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+Exemplo de visualização utilizando a biblioteca Swagger(https://swagger.io)
+
+![image](https://github.com/user-attachments/assets/babb3f40-b437-4ab0-9fc7-f1e6d5d928d3)
